@@ -1,6 +1,6 @@
 <h1> One Piece Website </h1>
-One Piece Logo
 
+<img src="https://sm.ign.com/t/ign_br/tv/o/one-piece-/one-piece-2_1xby.1200.jpg" width="300px"/> 
 Este é um projeto de site HTML criado como parte de um desafio na faculdade. O desafio era criar um site sobre algo que você gosta, e eu escolhi "One Piece", uma série de anime e mangá que adoro. Este README fornecerá uma visão geral do projeto e como você pode explorá-lo.
 
 Visão Geral
